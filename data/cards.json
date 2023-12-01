@@ -1,5 +1,38 @@
 [
     {
-        
+        "image": "../assets/beatsaber.png",
+        "name": "beatsaber"
+    },
+    {
+        "image": "../assets/bg3.png",
+        "name": "bg3"
+    },
+    {
+        "image": "../assets/fnaf.png",
+        "name": "fnaf"
+    },
+    {
+        "image": "../assets/jak_and_daxter.png",
+        "name": "jak_and_daxter"
+    },
+    {
+        "image": "../assets/minecraft.png",
+        "name": "minecraft"
+    },
+    {
+        "image": "../assets/persona.png",
+        "name": "persona"
+    },
+    {
+        "image": "../assets/reach.png",
+        "name": "reach"
+    },
+    {
+        "image": "../assets/Vrchat.png",
+        "name": "Vrchat"
+    },
+    {
+        "image": "../assets/witcher.png",
+        "name": "witcher"
     }
 ]
