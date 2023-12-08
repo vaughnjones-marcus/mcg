@@ -8,11 +8,11 @@
         "name": "bg3"
     },
     {
-        "image": "../assets/fnaf.png",
+        "image": "../assets/fnaf.jpeg",
         "name": "fnaf"
     },
     {
-        "image": "../assets/jak_and_daxter.png",
+        "image": "../assets/jak_and_daxter.jpeg",
         "name": "jak_and_daxter"
     },
     {
@@ -20,7 +20,7 @@
         "name": "minecraft"
     },
     {
-        "image": "../assets/persona.png",
+        "image": "../assets/persona.jpeg",
         "name": "persona"
     },
     {
